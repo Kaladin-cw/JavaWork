@@ -19,7 +19,7 @@ public class BankSystem {
 
 //While loop to make the menu persist until the Bank Operator exits the program.
         while (running) {
-            System.out.println("\nBank System Menu:");
+            System.out.println("\nTeam Red Bank System Menu:");
             System.out.println("1. Create Checking Account");
             System.out.println("2. Create Gold Account");
             System.out.println("3. Create Regular Account");
@@ -145,7 +145,7 @@ public class BankSystem {
 
                 case 10: // Exit
                     running = false;
-                    System.out.println("Exiting system...");
+                    System.out.println("Exiting system, thank you for using the Team Red bank system");
                     break;
 
                 default:

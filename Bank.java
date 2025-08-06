@@ -1,5 +1,5 @@
-/* Bank methods that allow the bank operator to use the menu in BankSystem...
- *
+/* Bank methods that allow the bank operator to use the menu in BankSystem,
+ * and store values into the ArrayList 'accounts' for retrieval and use from the menu.
  *
  * @Author: Team Red
  * @Date: 2AUG25
